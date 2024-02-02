@@ -1,4 +1,4 @@
-apply plugin: 'org.jetbrains.kotlin.jvm'
+//apply plugin: 'org.jetbrains.kotlin.jvm'
 
 dependencies {
     api project(":mybatis-plus-annotation")

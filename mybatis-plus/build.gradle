@@ -1,4 +1,4 @@
-apply plugin: 'kotlin'
+//apply plugin: 'kotlin'
 
 dependencies {
     api project(":mybatis-plus-extension")
